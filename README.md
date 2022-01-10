@@ -1,2 +1,2 @@
-# PersonalWebsite---NextJS
-Work in progress of personal website using next.js and chakra ui
+# PersonalWebsite--NextJS
+Work in progress of a personal website/portfolio with next.js
